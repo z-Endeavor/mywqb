@@ -1,0 +1,16 @@
+.vscode/
+__pycache__/
+
+draft*
+local*
+log*
+out*
+temp*
+tmp*
+
+*.draft
+*.local
+*.log
+*.out
+*.temp
+*.tmp
